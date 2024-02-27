@@ -19,7 +19,7 @@ public class App
 		System.out.println("Enter Second Number ");
 		int b = sc.nextInt();
 		
-		System.out.println("Sum to numbe is "+ad.add(a,b));
+		System.out.println("Sum two numbe is "+ad.add(a,b));
         System.out.println( "Hello World! HHI " );
     }
 }
